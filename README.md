@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 
+Highly skilled front-end developer with 3+ years of experience building responsive, user-friendly websites and applications. Proficient in HTML, CSS, JavaScript, and jQuery, with a strong understanding of usability and accessibility principles. Skilled at working with cross-functional teams and collaborating with designers and backend developers to deliver high-quality products.
 
-- 👯 I’m looking to collaborate on any apps that help our planet to be better and greener and happier!
-- 💬 Ask me about CSS, Javascript, Motherhood, Cooking
+Dedicated to tackling problems from start to finish and approaching challenges from a solution-driven perspective. I enjoy diving deep into a problem to explore its nuances and create robust solutions using innovative approaches.
+I love coding, sharing knowledge, and staying up-to-date on emerging technologies.
+
+- I’m looking to collaborate on any apps that help our planet to be better and greener and happier!
 - 📫 How to reach me: my portfolio : https://faratech.ca/ or Linkedin https://www.linkedin.com/in/nilou-houshmand/
-- 😄 Pronouns: Neeloo
+
