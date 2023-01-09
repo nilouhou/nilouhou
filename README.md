@@ -8,5 +8,7 @@ I love coding, sharing knowledge, and staying up-to-date on emerging technologie
 
 - I’m looking to collaborate on any apps that help our planet to be better and greener and happier!
 - 📫 How to reach me: my portfolio : https://faratech.ca/ or Linkedin https://www.linkedin.com/in/nilou-houshmand/
-- I am AWS Certified Cloud Practitioner 
+- I am AWS Certified Cloud Practitioner ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange.svg?link=[https://aws.amazon.com/your-certification-profile/](https://www.credly.com/badges/17a5be57-c6dd-4130-bff6-68b73320655b/public_url))
+
+
 
